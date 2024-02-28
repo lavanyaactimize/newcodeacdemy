@@ -4,11 +4,11 @@ const theme = createTheme({
         primary: { main: '#424bf5' },
         secondary: { main: '#f50057' },
         background: {
-            // default: '#fff0e5',
-            default: 'pink',
+             default: '#fff0e5',
+            
         },
     },
-    
+
 });
 theme.typography.h1 = {
     fontSize: '1.37rem',
