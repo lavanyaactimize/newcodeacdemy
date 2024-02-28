@@ -8,6 +8,7 @@ const theme = createTheme({
             default: 'pink',
         },
     },
+    
 });
 theme.typography.h1 = {
     fontSize: '1.37rem',
